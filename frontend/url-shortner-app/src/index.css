@@ -1,0 +1,5 @@
+/* each line indicated tailwind ot include certain sets
+of predefined styles into your project*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

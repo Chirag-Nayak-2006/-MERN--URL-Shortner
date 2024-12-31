@@ -1,0 +1,9 @@
+*.log
+
+
+backend/dist/
+backend/node_modules
+backend/.env
+
+frontend/url-shortner-app/node_modules
+frontend/url-shortner-app/.env
